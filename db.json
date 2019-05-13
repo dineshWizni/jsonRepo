@@ -11,5 +11,8 @@
 	}, {
 		"id": "4",
 		"name": "hero 4"
-	}]
+	}],
+	"heroBody":{
+		"name":"test hero"
+	}
 }
