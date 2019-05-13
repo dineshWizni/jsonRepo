@@ -13,6 +13,7 @@
 		"name": "hero 4"
 	}],
 	"heroBody":{
+		"id":"5",
 		"name":"test hero"
 	}
 }
